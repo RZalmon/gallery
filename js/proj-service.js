@@ -23,7 +23,7 @@ function createProjs(){
         createProj('touchNums', 'Touch Numbers', 'Press them fast!', 'Press the numbers in the correct order, do it as fast as you can',
          'img/portfolio/02-tn.jpg', ['Game', 'Numbers'], 'https://rzalmon.github.io/touch-nums/'),
         createProj('inPicture', 'In Picture', 'Think you can challenge Colombus?', 'Click on the right country',
-         'img/portfolio/03-ip.jpg', ['Game', 'Geography'], 'https://rzalmon.github.io/in-picture/')
+         'img/portfolio/02-ip.jpg', ['Game', 'Geography'], 'https://rzalmon.github.io/in-picture/')
     ];
     return projs
 }
